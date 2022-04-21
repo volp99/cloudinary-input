@@ -1,0 +1,5 @@
+!public/
+
+.vercel
+node_modules
+.idea
